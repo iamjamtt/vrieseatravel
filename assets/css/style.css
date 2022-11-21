@@ -3641,7 +3641,6 @@ blockquote {
     position: sticky;
     top: 65px;
     z-index: 99;
-    background: #fff;
     padding: 5px 0; }
   .collection-title-wrap,
   .filter-sorting {
